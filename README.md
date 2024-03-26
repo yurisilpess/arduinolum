@@ -7,7 +7,7 @@ Esse projeto foi desenvolivido por
 * [Yuri Pessoa](https://github.com/yurisilpess)
 * [João Franco]()
 * [Gustavo Moreno](https://github.com/gus7a2005)
-* [Igor Soons]()
+* [Igor Soos](https://github.com/igor-soos)
 
 ------------
 
