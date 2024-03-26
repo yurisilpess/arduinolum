@@ -6,7 +6,7 @@
 
 * [João Franco]()
 * [Gustavo Moreno]()
-* [Igor Soos]()
+* [Igor Soons]()
 
 ------------
 
