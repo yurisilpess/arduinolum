@@ -47,6 +47,8 @@ Esse projeto foi desenvolivido por
 4. ⏳ - Carregue o código para a placa Arduino.
 5. 👀 - Observe o comportamento dos LEDs e do buzzer de acordo com a luminosidade ambiente.
 
+--------------
+
 ## Links 🔗
 - [Tinkercad](https://www.tinkercad.com/things/83sCITpfnRG-projeto-vinicula-edge-computing?sharecode=V9tSaWBHoaSKsl-U6h55ODGPf_Ghba85i-biV6nJoiA)
 
