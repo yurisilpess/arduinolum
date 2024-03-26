@@ -2,7 +2,7 @@
             <h1>Projeto Arduino - Luminação -</h1>  
 </div>
 
-# Créditos
+# Créditos / Autores
 
 * [João Franco]()
 * [Gustavo Moreno]()
