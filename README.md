@@ -6,7 +6,7 @@
 Esse projeto foi desenvolivido por
 * [Yuri Pessoa](https://github.com/yurisilpess)
 * [João Franco]()
-* [Gustavo Moreno]()
+* [Gustavo Moreno](https://github.com/gus7a2005)
 * [Igor Soons]()
 
 ------------
