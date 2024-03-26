@@ -4,13 +4,15 @@
 
 # Créditos
 
-* []()
-* []()
-* []()
+* [João Franco]()
+* [Gustavo Moreno]()
+* [Igor Soos]()
 
 ------------
 
-# Projeto VINÍCULA
+<div align="center">
+            <h1>Projeto Vinícula</h1>  
+</div>
 
 📌 - Este é um projeto que utiliza um sensor LDR (Light Dependent Resistor) para controlar a intensidade de três LED´s (vermelho, amarelo e verde) e um buzzer, indicando diferentes níveis de luminosidade no ambiente.
 
