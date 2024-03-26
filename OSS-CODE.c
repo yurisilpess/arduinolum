@@ -1,4 +1,4 @@
-// PROJETO VINÍCULA
+// PROJETO VINÍCULA - OPEN SOURCE SOFTWARE
 
 // Definindo a qual pino os Leds estão ligados:
 int LED_PIN_RED = 10; // Define a qual pino o Led Vermelho está ligado
