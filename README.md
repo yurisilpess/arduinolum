@@ -3,7 +3,8 @@
 </div>
 
 # Créditos / Autores 🖋️
-
+Esse projeto foi desenvolivido por
+* [Yuri Pessoa](https://github.com/yurisilpess)
 * [João Franco]()
 * [Gustavo Moreno]()
 * [Igor Soons]()
@@ -47,11 +48,7 @@
 5. 👀 - Observe o comportamento dos LEDs e do buzzer de acordo com a luminosidade ambiente.
 
 ## Links 🔗
-- Tinkercad: https://www.tinkercad.com/things/83sCITpfnRG-projeto-vinicula-edge-computing?sharecode=V9tSaWBHoaSKsl-U6h55ODGPf_Ghba85i-biV6nJoiA
-
-## Autores ✒️
-
-✅  - Este projeto foi desenvolvido por João Franco, Gustavo Moreno, Igor Soons e Yuri Pessoa.
+- [Tinkercad](https://www.tinkercad.com/things/83sCITpfnRG-projeto-vinicula-edge-computing?sharecode=V9tSaWBHoaSKsl-U6h55ODGPf_Ghba85i-biV6nJoiA)
 
 🔚 
 
