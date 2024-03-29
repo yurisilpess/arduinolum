@@ -39,6 +39,14 @@ Esse projeto foi desenvolivido por
 
 <img width="489" alt="Screenshot 2024-03-29 at 11 38 19" src="https://github.com/yurisilpess/arduinolum/assets/99032447/05881c1a-635c-47aa-9295-faf345e305e5">
 
+-----------
+
+
+
+https://github.com/yurisilpess/arduinolum/assets/99032447/660b1d89-b41c-4c50-ab74-fc721048d0d6
+
+
+
 ## Instalação e Uso 🔨 
 
 1. 🔧 - Monte o circuito de acordo com o esquema fornecido. 
