@@ -38,7 +38,6 @@ Esse projeto foi desenvolivido por
 🔎 - Circuito realizado no tinkercad:
 
 <img width="489" alt="Screenshot 2024-03-29 at 11 38 19" src="https://github.com/yurisilpess/arduinolum/assets/99032447/05881c1a-635c-47aa-9295-faf345e305e5">
-<video src='https://youtu.be/4sQUbHVKzrA?si=mv4d9zJf59cxsL7-' width=180/>
 
 ## Instalação e Uso 🔨 
 
